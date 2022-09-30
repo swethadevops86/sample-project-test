@@ -21,6 +21,5 @@ steps:
   inputs:
     script: |
       echo Welcome to Azure!
-      
       echo Try your level Best
 
